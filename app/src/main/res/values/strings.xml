@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EasyTrack</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="btn_online">Go Online</string>
+    <string name="btn_properties">Settings</string>
+    <string name="btn_send">Send</string>
+    <string name="serverURI_hint">URL</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="btn_save">Save</string>
+    <string name="label_tasks">Tasks</string>
+    <string name="switch_tracking">Enable Tracking</string>
+</resources>
